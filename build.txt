@@ -1,0 +1,4 @@
+displayName = Champion Set
+author = Grim_Reaper01YT
+version = 1.0.0
+referenceMod = CalamityMod
